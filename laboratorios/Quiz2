@@ -1,0 +1,15 @@
+# Del uno al 1000 los pares omitiendo 10 y 100 #
+
+num = 1
+t = 0
+
+while num <= 1000:
+    if num == 10 or num == 100:
+        pass
+    else:
+        if num%2 == 0:
+            t += num
+            print(num)
+    num += 1
+
+print ('\nLa suma de los pares es igual a %i' % t)
