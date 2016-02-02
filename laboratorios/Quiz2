@@ -1,6 +1,6 @@
 # Del uno al 1000 los pares omitiendo 10 y 100 #
 
-num = 1
+num = 10
 t = 0
 
 while num <= 5000:
