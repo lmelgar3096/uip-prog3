@@ -3,7 +3,7 @@
 num = 1
 t = 0
 
-while num <= 1000:
+while num <= 5000:
     if num == 10 or num == 100:
         pass
     else:
