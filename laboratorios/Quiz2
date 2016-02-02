@@ -4,7 +4,7 @@ num = 1
 t = 0
 
 while num <= 5000:
-    if num == 10 or num == 100:
+    if num == 100 or num == 1000:
         pass
     else:
         if num%2 == 0:
