@@ -1,4 +1,4 @@
-# Del uno al 1000 los pares omitiendo 10 y 100 #
+# Del 10 al 1000 los pares omitiendo 100 y 1000 #
 
 num = 10
 t = 0
